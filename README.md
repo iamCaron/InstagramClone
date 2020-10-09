@@ -1,5 +1,11 @@
-# InstagramClone
+# Instagram Clone
 This is an instagram clone android app
+
+## Topics Used
+
+- Kotlin
+- MVVM
+- Firebase
 
 <p float="left">
 
